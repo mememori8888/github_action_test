@@ -18,4 +18,4 @@ jobs:
         python-version: '3.11'  # 使用するPythonのバージョンを指定
 
     - name: Run Python script
-      run: python hello.py  # `hello.py`スクリプトを実行する
+      run: python Hello.py  # `hello.py`スクリプトを実行する
