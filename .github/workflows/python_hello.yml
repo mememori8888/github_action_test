@@ -32,4 +32,4 @@ jobs:
 
     - name: hello.pyの実行
       # 'python hello.py'コマンドを実行する
-      run: python hello.py
+      run: python Hello.py
